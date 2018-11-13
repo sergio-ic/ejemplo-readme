@@ -1,4 +1,6 @@
-![Nombre del juego](logo.png)
+<p align="center">
+<img src="logo.png" alt="Nombre del juego"/>
+</p>
 
 # Nombre del juego
 
