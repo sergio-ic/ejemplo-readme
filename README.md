@@ -1,15 +1,8 @@
-[Contribution guidelines for this project](logo.png)
+![Nombre del juego](logo.png)
 
 # Nombre del juego
 
 Descripción del juego
-
-## Screenshots
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
