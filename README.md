@@ -12,6 +12,10 @@ Descripción del juego
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
+<p align="center">
+<img src="logo-image-campus.png" alt="Image Campus"/>
+</p>
+
 ## Credits
 
 - **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
