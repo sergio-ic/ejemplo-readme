@@ -12,9 +12,7 @@ Descripción del juego
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-<p align="center">
-<img src="logo-image-campus.png?raw=true" alt="Image Campus"/>
-</p>
+![Image Campus](logo-image-campus.png)
 
 ## Credits
 
