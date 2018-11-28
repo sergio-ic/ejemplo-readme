@@ -1,12 +1,14 @@
 <p align="center">
-<img src="logo.png" alt="Nombre del juego"/>
+<img src="logo.png" alt="PONER NOMBRE DEL JUEGO ACA"/>
 </p>
 
-# Nombre del juego
+# NOMBRE DEL JUEGO
 
-Descripción del juego
+Lorem ipsum dolor sit amet consectetur adipiscing elit, quam nunc per litora montes himenaeos. Porttitor tellus dis cubilia vitae tortor felis litora vestibulum lacinia, cras diam ut dictumst orci consequat gravida rhoncus, hac faucibus volutpat ligula massa sem ornare posuere.
 
-This game was developed by students
+Aliquam massa ut at semper parturient ridiculus netus suspendisse eros, vivamus lobortis libero lacinia tempor fusce dis rutrum natoque non, tincidunt tempus mus eleifend luctus tellus odio platea. 
+
+This game was developed by students from <a href="https://www.imagecampus.edu.ar/">Image Campus</a>
 
 <p align="center">
   <a href="https://www.imagecampus.edu.ar/">
@@ -15,9 +17,11 @@ This game was developed by students
 </p>
 
 
-## Credits
+## Credits (in alphabetical order)
 
-- **Billie Thompson** - *Initial work* - [GitHub](https://github.com/PurpleBooth) [LinkedIn](https://github.com/PurpleBooth) <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" />
+- **Nombre Apellido** - *Programming* - <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" /></a>
+- **Nombre Apellido** - *Art* - <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" /></a>
+- **Nombre Apellido** - *Audio* - <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" /></a>
+- **Nombre Apellido** - *Testing* - <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" /></a>
 
-
-<iframe src="https://itch.io/embed/56343?border_width=5" width="560" height="175" frameborder="0"></iframe>
+Play it on itch.io: https://lqngames.itch.io/under-control
