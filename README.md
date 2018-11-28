@@ -32,8 +32,8 @@ The game was also possible thanks to the support of these professors:
 - **Sergio Baretto**
 - **Federico Barra**
 - **Jorge Cuéllar**
-- **Eugenio Taboada**
 - **Fernando Puig**
+- **Eugenio Taboada**
 
 
 ## Acknowledgements
