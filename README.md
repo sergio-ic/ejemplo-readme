@@ -26,7 +26,7 @@ This is a game (demo/protoype/vertical slice) developed by students from <a href
 - **Nombre Apellido** - *Testing* - <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/github.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/behance.svg" /></a> <a href="LINK A RED"><img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/artstation.svg" /></a>
 
 
-The game was also possible thanks to the support of these professors:
+This game was also possible thanks to the support of these professors:
 
 - **Sergio Baretto**
 - **Federico Barra**
