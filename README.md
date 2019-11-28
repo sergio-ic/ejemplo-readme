@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit, quam nunc per litora mon
 
 Aliquam massa ut at semper parturient ridiculus netus suspendisse eros, vivamus lobortis libero lacinia tempor fusce dis rutrum natoque non, tincidunt tempus mus eleifend luctus tellus odio platea. 
 
-This is a game (demo/protoype/vertical slice) developed by students from <a href="https://www.imagecampus.edu.ar/">Image Campus</a>
+This is a game (still in development) created by students from <a href="https://www.imagecampus.edu.ar/">Image Campus</a>
 
 <p align="center">
   <a href="https://www.imagecampus.edu.ar/">
