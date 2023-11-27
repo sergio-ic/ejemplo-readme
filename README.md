@@ -1,8 +1,8 @@
 <p align="center">
-<img src="logo.png" alt="PONER NOMBRE DEL JUEGO ACA"/>
+<img src="logo.png" alt="Poner nombre del jego aca"/>
 </p>
 
-# PONER NOMBRE DEL JUEGO ACA
+# Poner nombre del juego acá
 
 PONER LA DESCRIPCION LARGA DEL JUEGO ACA.
 
