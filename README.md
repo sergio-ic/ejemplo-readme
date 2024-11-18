@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" alt="Poner nombre del jego aca"/>
+<img src="logo.png" alt="Poner nombre del juego aca"/>
 </p>
 
 # Poner nombre del juego acá
