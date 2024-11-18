@@ -23,8 +23,8 @@ This is a game being developed by students from <a href="https://www.imagecampus
 - **Nombre Apellido** - *Art*
 - **Nombre Apellido** - *Audio*
 - **Nombre Apellido** - *Audio*
-- **Nombre Apellido** - *Testing*
-- **Nombre Apellido** - *Testing*
+- **Nombre Apellido** - *QA*
+- **Nombre Apellido** - *QA*
 
 
 This game was also possible thanks to the support of these professors:
