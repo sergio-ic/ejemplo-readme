@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" alt="Poner nombre del jego aca"/>
+<img src="logo.png" alt="Poner nombre del juego aca"/>
 </p>
 
 # Poner nombre del juego acá
@@ -23,27 +23,40 @@ This is a game being developed by students from <a href="https://www.imagecampus
 - **Nombre Apellido** - *Art*
 - **Nombre Apellido** - *Audio*
 - **Nombre Apellido** - *Audio*
-- **Nombre Apellido** - *Testing*
-- **Nombre Apellido** - *Testing*
+- **Nombre Apellido** - *QA*
+- **Nombre Apellido** - *QA*
 
 
-This game was also possible thanks to the support of these professors:
+This game was also possible thanks to the support of:
 
-- **Sergio Baretto**
-- **Juan Pablo Varela Aloisio**
-- **Ramiro Cabrera**
-- **Eugenio Taboada**
-- **Nazareno Rivero**
-- **Lucía Inés Patetta**
+**Professors:**
+
+- Sergio Baretto
+- Juan Pablo Varela Aloisio
+- Ramiro Cabrera
+- Eugenio Taboada
+- Nazareno Rivero
+- Lucía Patetta
+
+**Teaching assistants:**
+
+- Rocío Giménez
+- Ignacio Arrastua
+- Lautaro Lajmanovich
+- Manuel Sanchez
+- Lucio Ary Clementino
+- Florencia Gordano
+
+**and all Image Campus Staff!**
 
 
 ## Acknowledgements
 
-- **Federico Barra**
-- **Franco Guerra**
-- **Silvina Lemos Hoffmann**
+- Nombre Apellido
+- Nombre Apellido
+- Nombre Apellido
 
-OTRAS PERSONAS A LAS QUE QUIERAN AGRADECERLES ACÁ, SINO SACAR ESTE TEXTO
+OTRAS PERSONAS A LAS QUE QUIERAN AGRADECERLES ACÁ, SINO SACAR ESTA SECCIÓN
 
 
 ## Links
