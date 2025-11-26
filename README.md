@@ -32,20 +32,19 @@ This game was also possible thanks to the support of:
 **Professors:**
 
 - Sergio Baretto
-- Juan Pablo Varela Aloisio
+- Ignacio Mosconi
 - Ramiro Cabrera
 - Eugenio Taboada
 - Nazareno Rivero
-- Lucía Patetta
+- Silvina Lemos
 
 **Teaching assistants:**
 
-- Rocío Giménez
-- Ignacio Arrastua
-- Lautaro Lajmanovich
-- Manuel Sanchez
-- Lucio Ary Clementino
-- Florencia Gordano
+- Guido Tello
+- Elisa Gonda
+- Julián Tinao
+- Nicolas Arias Calvo
+- Melissa Villarruel
 
 **and all Image Campus Staff!**
 
